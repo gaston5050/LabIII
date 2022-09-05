@@ -1,3 +1,4 @@
+
 USE MASTER
 GO
 -- DROP DATABASE Carpinteria

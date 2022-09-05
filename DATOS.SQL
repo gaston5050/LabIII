@@ -1,3 +1,4 @@
+use carpinteria
 insert into Categorias (Nombre) values ('Baño');
 insert into Categorias (Nombre) values ('Cocina');
 insert into Categorias (Nombre) values ('Comedor');
